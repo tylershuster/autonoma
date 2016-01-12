@@ -1,0 +1,1 @@
+<span id="beta_badge">This website is in beta</span>

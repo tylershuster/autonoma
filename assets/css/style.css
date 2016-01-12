@@ -1,0 +1,25 @@
+body {
+	text-align: center;
+	max-width: 40rem;
+	margin: 0 auto;
+}
+
+p {
+	text-align: left;
+}
+
+ul,
+ol {
+	text-align: left;
+}
+
+
+
+
+#beta_badge {
+	position: absolute;
+	transform: rotate(45deg);
+	right: 0;
+	top: 0;
+	transform-origin: 0% 100%;
+}
