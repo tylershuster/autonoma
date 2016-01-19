@@ -42,11 +42,14 @@
 	}
 </style>
 
+<section class="full_width" style="min-height: 50vh;display: flex;justify-content: center;align-content: center;">
 
-<p>We are Automata, a digital promotional agency.</p>
+	<h1>We are Automata, a digital promotional agency<br /><small>based in Redding, CA</small></h1>
 
-We Design &amp; Develop Digital Properties,
-primarily
+</section>
+
+<h2>We Design &amp; Develop Digital Properties,<br />
+primarily</h2>
 
 <ul id="products">
 	<li><a href="/websites"><img src="websites.svg" alt="Websites" /></a></li>
@@ -78,16 +81,21 @@ primarily
 	<li><a href="/search_engine_optimization"><img src="search_engine_optimization.svg" alt="Search Engine Optimization" /></a></li>
 </ul>
 
-<h2>Name (<a href="https://en.wikipedia.org/wiki/Help:IPA_for_English" target="_blank">ʌtɒmʌtʌ</a>)</h2>
+<section id="name">
+	<h2>Name (<a href="https://en.wikipedia.org/wiki/Help:IPA_for_English" target="_blank">ɅTⱰMɅTⱭː</a>)</h2>
 
-<p>We made up the name automata from the &lsquo;autonomy&rsquo; and &lsquo;automation&rsquo;.</p>
-<p>We exist as part of <a href="/autonomy">a growing movement towards worker autonomy</a>. To this end, we are incorporated as a <a href="/autonomy">workers' cooperative</a>.</p>
-<p>As web developers, part of our business is automation. We want to do <a href="/craftsmanship">our best work</a>, which means not wasting time doing <a href="/automation">the same simple tasks repeatedly</a>.</p>
+	<p>We made up the name automata from the &lsquo;autonomy&rsquo; and &lsquo;automation&rsquo;.</p>
+	<p>We exist as part of <a href="/autonomy">a growing movement towards worker autonomy</a>. To this end, we are incorporated as a <a href="/autonomy">workers' cooperative</a>.</p>
+	<p>As web developers, part of our business is automation. We want to do <a href="/craftsmanship">our best work</a>, which means not wasting time doing <a href="/automation">the same simple tasks repeatedly</a>.</p>
+</section>
 
-<p>Our <a href="/government">legal</a> members list:</p>
-<ul>
-	<li><a href="/jesse_moffett">Jesse Moffett</a></li>
-	<li><a href="/tyler_shuster">Tyler Shuster</a></li>
-</ul>
+
+<section id="members">
+	<p>Our <a href="/government">legal</a> members list:</p>
+	<ul>
+		<li><a href="/jesse_moffett">Jesse Moffett</a></li>
+		<li><a href="/tyler_shuster">Tyler Shuster</a></li>
+	</ul>
+</section>
 
 
