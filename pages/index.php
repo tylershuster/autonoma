@@ -44,7 +44,7 @@
 
 <section class="full_width" style="min-height: 50vh;display: flex;justify-content: center;align-content: center;">
 
-	<h1>We are Automata, a digital promotional agency<br /><small>based in Redding, CA</small></h1>
+	<h1>We are Autonoma, a digital promotional agency<br /><small>based in Redding, CA</small></h1>
 
 </section>
 
@@ -84,7 +84,7 @@ primarily</h2>
 <section id="name">
 	<h2>Name (<a href="https://en.wikipedia.org/wiki/Help:IPA_for_English" target="_blank">ɅTⱰMɅTⱭː</a>)</h2>
 
-	<p>We made up the name automata from the &lsquo;autonomy&rsquo; and &lsquo;automation&rsquo;.</p>
+	<p>We made up the name autonoma from the &lsquo;autonomy&rsquo; and &lsquo;automation&rsquo;.</p>
 	<p>We exist as part of <a href="/autonomy">a growing movement towards worker autonomy</a>. To this end, we are incorporated as a <a href="/autonomy">workers' cooperative</a>.</p>
 	<p>As web developers, part of our business is automation. We want to do <a href="/craftsmanship">our best work</a>, which means not wasting time doing <a href="/automation">the same simple tasks repeatedly</a>.</p>
 </section>

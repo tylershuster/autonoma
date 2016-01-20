@@ -1,8 +1,7 @@
 <?php
 
-define( 'ROOT_DIR', $_SERVER['DOCUMENT_ROOT'] );
 
-class Automata {
+class Autonoma {
 
 	public static $version = 0.1;
 
@@ -16,15 +15,15 @@ class Automata {
 
 		self::block('header');
 
-			if( self::$version < 1.0 ) Automata::block( 'beta_badge' );
+			if( self::$version < 1.0 ) Autonoma::block( 'beta_badge' );
 
 			$request = $_SERVER['REQUEST_URI'];
 
 		  $params = explode("/", $request);
 
-		  if( $params[1] ) {
+		  if( $params[ count($params) - 1 ] ) {
 
-		  	include_once( ROOT_DIR . "/pages/" . $params[1] . ".php" );
+		  	include_once( ROOT_DIR . "/pages/" . $params[ count($params) - 1 ] . ".php" );
 
 		  } else {
 
